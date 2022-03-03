@@ -32,6 +32,10 @@ export default function App() {
 					name="viewport"
 					content="width=device-width,initial-scale=1"
 				/>
+				<meta
+					name="facebook-domain-verification"
+					content="hfizy8m197mvb0xer36kv2hnekle0f"
+				/>
 				<Meta />
 				<Links />
 				<script
